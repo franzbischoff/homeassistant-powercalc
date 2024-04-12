@@ -5,7 +5,7 @@ async-timeout==3.0.1
 asyncstdlib==3.9.2
 attrs==21.2.0
 chardet==4.0.0
-idna==3.2
+idna==3.7
 ifaddr==0.1.7
 multidict==5.1.0
 prompt-toolkit==1.0.14
