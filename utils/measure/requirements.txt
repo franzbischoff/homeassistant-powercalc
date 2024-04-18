@@ -1,4 +1,4 @@
-aiohttp==3.7.4.post0
+aiohttp==3.9.4
 aiohue==2.5.1
 aioshelly==0.6.4
 async-timeout==3.0.1
